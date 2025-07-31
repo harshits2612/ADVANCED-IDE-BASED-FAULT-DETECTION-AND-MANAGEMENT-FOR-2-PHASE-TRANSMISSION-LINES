@@ -25,9 +25,6 @@ A real-time embedded system for detecting and managing faults in 3-phase transmi
 
 ---
 
-
----
-
 ## 🧪 How It Works
 
 1. **Sensors** detect abnormalities (overcurrent, voltage drop).
@@ -57,6 +54,8 @@ A real-time embedded system for detecting and managing faults in 3-phase transmi
 ## 📄 License
 
 This project is open-source and available under the (SIMATS)(LICENSE).
-
+---
+## 🗒 note 
+"In this project, we used only 2 phases. When implementing it for 3 phases, please refer to our PPT for the correct connections."
 
 
