@@ -1,5 +1,4 @@
-# ADVANCED-IDE-BASED-FAULT-DETECTION-AND-MANAGEMENT-FOR-2-PHASE-TRANSMISSION-LINES
-Real-time fault detection and management system for 2-phase transmission lines using Arduino and ESP32. Automates fault isolation, monitoring, and control through IDE-based development and wireless communication
+
 # ⚡ Advanced IDE-Based Fault Detection and Management for 2-Phase Transmission Lines
 
 A real-time embedded system for detecting and managing faults in 3-phase transmission lines using Arduino and ESP32. The project aims to improve power system reliability through automated monitoring, fault isolation, and wireless data communication.
