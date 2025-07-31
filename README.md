@@ -1,5 +1,5 @@
 
-# ⚡ Advanced IDE-Based Fault Detection and Management for 2-Phase Transmission Lines
+# ⚡ Advanced IDE-Based Fault Detection and Management for 3-Phase Transmission Lines
 
 A real-time embedded system for detecting and managing faults in 3-phase transmission lines using Arduino and ESP32. The project aims to improve power system reliability through automated monitoring, fault isolation, and wireless data communication.
 
